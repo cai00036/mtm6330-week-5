@@ -1,0 +1,31 @@
+{
+  "name": "mtm6330-week-5",
+  "version": "1.0.0",
+  "description": "bootstrap, sass, css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cai00036/mtm6330-week-5.git"
+  },
+  "author": "Wei Chao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cai00036/mtm6330-week-5/issues"
+  },
+  "homepage": "https://github.com/cai00036/mtm6330-week-5#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.4.7",
+    "browser-sync": "^2.26.3",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.0",
+    "gulp-postcss": "^8.0.0",
+    "i": "^0.3.6",
+    "npm": "^6.8.0"
+  },
+  "dependencies": {
+    "gulp-sass": "^4.0.2"
+  }
+}
